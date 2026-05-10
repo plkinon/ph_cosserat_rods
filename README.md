@@ -24,12 +24,13 @@ If you found our work helpful and you have used it in your academic work, please
 
 ```bibtex
 @misc{kinon_eugster_betsch_2026,
-  title  = {Mixed formulation and structure-preserving discretization of Cosserat rod dynamics in a port-Hamiltonian framework},
-  author = {Philipp L. Kinon and Simon R. Eugster and Peter Betsch},
-  year   = {2026},
-  volume = {458},
-  pages  = {118966},
-  doi    = {https://doi.org/10.1016/j.cma.2026.118966},
+  title   = {Mixed formulation and structure-preserving discretization of Cosserat rod dynamics in a port-Hamiltonian framework},
+  author  = {Philipp L. Kinon and Simon R. Eugster and Peter Betsch},
+  journal = {Computer Methods in Applied Mechanics and Engineering},
+  year    = {2026},
+  volume  = {458},
+  pages   = {118966},
+  doi     = {https://doi.org/10.1016/j.cma.2026.118966},
 }
 ```
 see also the [CITATION.bib](CITATION.bib) file for download.
