@@ -23,7 +23,7 @@ This repository is licensed under the [MIT License][url_license].
 If you found our work helpful and you have used it in your academic work, please cite it as:
 
 ```bibtex
-@misc{kinon_eugster_betsch_2026,
+@article{kinon_eugster_betsch_2026,
   title   = {Mixed formulation and structure-preserving discretization of Cosserat rod dynamics in a port-Hamiltonian framework},
   author  = {Philipp L. Kinon and Simon R. Eugster and Peter Betsch},
   journal = {Computer Methods in Applied Mechanics and Engineering},
